@@ -1,0 +1,15 @@
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\Proyectoejecucion.exe.config
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\Proyectoejecucion.exe
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\Proyectoejecucion.pdb
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\CapaVista.dll
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\CapaControlador.dll
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\CapaModelo.dll
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\CapaVista.pdb
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\CapaControlador.pdb
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\bin\x64\Debug\CapaModelo.pdb
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\obj\x64\Debug\Proyectoejecucion.Properties.Resources.resources
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\obj\x64\Debug\Proyectoejecucion.csproj.GenerateResource.cache
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\obj\x64\Debug\Proyectoejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\obj\x64\Debug\Proyectoejecucion.csproj.CopyComplete
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\obj\x64\Debug\Proyectoejecucion.exe
+C:\Users\Carlo Barquero\source\repos\Proyectoejecu\Proyectoejecucion\obj\x64\Debug\Proyectoejecucion.pdb
